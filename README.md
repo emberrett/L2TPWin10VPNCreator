@@ -1,5 +1,5 @@
 # L2TPWin10VPNCreator
-Simple batch script to create L2TP VPN connection with pre-shared key. Once configured, will allow you to create VPN for all users in one click. 
+Simple batch script to create L2TP VPN connection with pre-shared key on Windows 10. Once configured, will allow you to create VPN for all users in one click. 
 
 Batch script requires the following to be configured by the user prior to running .bat file:
 -L2TP pre-shared key
